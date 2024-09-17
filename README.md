@@ -35,11 +35,11 @@
   ```
 ## 4. Запуск тестов
 Теперь вы можете запустить тесты:
-  ```
-  python test_sauce.py
+```
+python test_sauce.py
 ```
 ```
-  python test_git_api.py
+python test_git_api.py
 ```
   
 
