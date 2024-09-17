@@ -8,8 +8,8 @@
 ## 1. Клонирование репозитория
 Сначала клонируйте репозиторий с GitHub и перейдите в проект:
   ```
-  git clone -
-  cd -
+  git clone https://github.com/abuzikoMain/to-effective-mobile.git
+  cd to-effective-mobile
   ```
 
 ## 2. Создание виртуального окружения
